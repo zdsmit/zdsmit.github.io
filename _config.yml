@@ -1,11 +1,11 @@
 # Site settings
-author: Zach  Smith
-title: 
+author: Zach Smith
+title: Zach's Flatiron Blog
 header-img: img/home-bg.png
 email: zdsmith001@gmail.com
-copyright_name: Zach  Smith
+copyright_name: Zach Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An up-to-date account of my biggest coding experiences and challenges
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  zdsmit
