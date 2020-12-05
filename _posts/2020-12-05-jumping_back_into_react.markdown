@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Jumping Back Into React"
-date:       2020-12-05 17:59:26 +0000
+date:       2020-12-05 12:59:27 -0500
 permalink:  jumping_back_into_react
 ---
 
@@ -14,11 +14,11 @@ As I am just starting as of this writing, I don't have anything to show just yet
 
 My components will be as follows:
 
-  -App
-	-Calculator
-	-Display
-	-Buttons
-	-Button
+* App
+* Calculator
+* Display
+* Buttons
+* Button
 	
 Of course, the Buttons and Button components will be for handling user input, while Display will handle the logic of the mathematical operations. It will be a simple calculator with digits 0-9, and operators for addition, subtract, multiplication, and division. I may change my mind and add more as I progress through building it, but this is the plan I am starting with.
 
